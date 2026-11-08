@@ -1,31 +1,16 @@
 # ADE'S SPECIAL Nigeria Limited
 
-A responsive business portfolio website for ADE'S SPECIAL Nigeria Limited.
+Official business website for ADE'S SPECIAL Nigeria Limited.
 
-## Business areas
-- Gas filling and cooking gas sales
-- Kitchen accessories
-- POS services
+The website presents the business's gas filling, kitchen accessories, and POS services.
 
-## Contact
-- 09138934238
-- 07058104991
-- 09023281396
-- Ibaka Quarter, Akungba-Akoko, Ondo State, Nigeria
+## Project
 
-## Project files
-- `index.html` — website structure and content
-- `styles.css` — responsive visual design
-- `script.js` — mobile navigation and interactions
-- `assets/ade-founder.webp` — representative portrait
+- `index.html` — website structure, content, styling, and interactions
+- `assets/ade-founder.webp` — founder portrait displayed on the website
 
-## Local preview
-Open `index.html` in a browser. This is a static HTML/CSS/JavaScript project with no build step or paid dependencies.
+## Deployment
 
-## Cloudflare Pages
-Use the repository root as the build directory and leave the build command empty.
-
-## Notes
-Gallery photography is illustrative. Confirm actual product range, operating details and service availability with the business before publication.
+This is a static website. No build command or paid dependency is required. The project can be deployed using GitHub Pages or Cloudflare Pages.
 
 Designed & Developed by DEVLYON.
